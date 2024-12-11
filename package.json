@@ -3,11 +3,20 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Random Fact List for NPM.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ari-Khan/random-fact-list.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "scripts": {
+    "test": "node tests/index.test.js",
+    "build": "echo 'No build needed'"
+  },
+  "keywords": [
+    "random",
+    "fact",
+    "list"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
 }
