@@ -1,6 +1,6 @@
 {
   "name": "random-fact-list",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "type": "module",
   "main": "index.js",
   "description": "Random Fact List for NPM.",
